@@ -1,5 +1,5 @@
-<img width="1184" height="836" alt="Screenshot 2025-10-08 102211" src="https://github.com/user-attachments/assets/84e30a38-5033-4499-baba-34704d28a23e" /># EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+## DATE: 08/10/2025
 
 ## AIM:
 To create a 3D model from given orthographic projection.
